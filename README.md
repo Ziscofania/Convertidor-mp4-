@@ -1,13 +1,24 @@
-# Convertidor mp4 
+# 🎬 Convertidor MP4
 
-Convertidor de videos de youtube a mp4 para evitar el uso de sitios externos o no seguros, script de python que facilita la optencion de videos guardandolos en la carpeta wallpapers **(En caso de no existir el codigo la crea para almacenar los videos)**
+Convertidor de videos de YouTube a MP4 para evitar el uso de sitios externos o no seguros.  
+Este script en Python permite descargar videos y guardarlos automáticamente en la carpeta **wallpapers**.
 
-## vista de la terminal 
+> Si la carpeta no existe, el programa la crea automáticamente.
+
+---
+
+##  Vista de la terminal
 
 <p align="center">
   <img src="img/terminal.png" width="600"/>
-</p
+</p>
 
-## Archivos
+---
 
-El codigo creara la carpeta de **Wallpapers** donde almacenara los videos que sean descargados
+##  Archivos generados
+
+El código crea una carpeta llamada **wallpapers**, donde se almacenan los videos descargados.
+
+<p align="center">
+  <img src="img/image.png" width="600"/>
+</p>
